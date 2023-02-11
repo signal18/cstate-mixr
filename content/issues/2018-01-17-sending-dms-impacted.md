@@ -12,4 +12,4 @@ section: issue
 
 *Update* - This incident has been resolved.
 
-*Investigating* - We're aware of an issue affecting sending DMs and viewing online friends. We're online and working on a resolution.
+*Investigating* - We're aware of an issue affecting login to MixR and viewing online Mixrs. We're online and working on a resolution.
