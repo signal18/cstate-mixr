@@ -146,19 +146,15 @@ params:
   categories:
     - name: North East America
       description: Some servers are located here.
-      closed: true
+      closed: false
     - name: Ouest South America
       description: Some servers are located here.
-      closed: true
+      closed: false
     - name: Europe
       description: Some servers are located here.
-      closed: true
-    - name: Empty Category
     - name: Uncategorized
       untitled: true
     - name: Empty Category
-    - name: Uncategorized
-      untitled: true
 
   systems:
     - name: Backup Gateway
