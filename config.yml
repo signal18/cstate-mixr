@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://mixr.net
+baseURL: https://signal18.github.io/cstate-mixr
 
 # For features like Last modified, you
 # need to use a Git repository. If you
