@@ -6,4 +6,4 @@ pin: true
 section: issue
 ---
 
-We will improve our failover plan on Europeen zone at 7:30AM UTC on April 05 up to 8:30AM. Short lost of service is expected to happen during failover .
+We will improve our failover plan on Europeen zone at 7:30AM UTC on April 05 up to 8:30AM. Short lost of service is expected to happen during failover.
