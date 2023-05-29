@@ -1,6 +1,6 @@
 ---
 title: Suspiscious email received by MixR employees [EXCERCISE]
-date: 2023-05-23 14:43:00
+date: 2023-05-29 14:43:00
 informational: true
 pin: true
 section: issue
